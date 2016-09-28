@@ -1,4 +1,4 @@
-![Counter-Split](https://img.skyenet.org/~skyenet/projects/countersplit/logo-white.png)
+![Counter-Split](https://cdn.aixxe.net/projects/countersplit/logo-white.png)
 
 
 ### Description
