@@ -1,7 +1,7 @@
 --[[
 
 	CounterSplit - automated splitter for Counter-Strike: Source
-	Copyright (C) 2014 - 2015, Team SkyeNet. (www.skyenet.org)
+	Copyright (C) 2014 - 2017, TEAM SKYENET. (www.skyenet.org)
 	
 	Contributors:
 		* aixxe <aixxe@skyenet.org>
@@ -24,7 +24,7 @@
 
 -- Print startup text.
 print("CounterSplit - automated splitter for Counter-Strike: Source");
-print("Copyright (C) 2014 - 2015, Team SkyeNet. (www.skyenet.org)\n");
+print("Copyright (C) 2014 - 2017, TEAM SKYENET. (www.skyenet.org)\n");
 
 -- Include support modules.
 require("RemoteProcess");
