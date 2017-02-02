@@ -1,6 +1,6 @@
 return {
-	-- Load offsets for CS:S v2234230.
-	OffsetFile = "offsets\\css.v2234230.lua",
+	-- Load offsets for CS:S v3398447.
+	OffsetFile = "offsets\\css.v3398447.lua",
 	
 	-- Define timer hotkeys.
 	Hotkeys = {
